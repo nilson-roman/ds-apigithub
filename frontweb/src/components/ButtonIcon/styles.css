@@ -1,0 +1,11 @@
+.btn-container {
+  display: flex;
+}
+
+.btn-container button {
+  font-size: 16px;
+  margin-top: 30px;
+  padding: 5px;
+  width: 100px;
+  height: 40px;
+}
